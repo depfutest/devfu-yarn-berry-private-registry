@@ -5,10 +5,10 @@ __metadata:
   version: 5
   cacheKey: 8
 
-"@privscope/priv-package@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "@privscope/priv-package@npm:1.0.0"
-  checksum: fe0b2642cbe89d160a9a34898c8e7dba09bfdd4096dcb9a066838361505b7051093ac38adf178cd9bf2b7956f40907d0f73772b1aa90d71e572452b753fa4357
+"@privscope/priv-package@npm:^1.0.2":
+  version: 1.0.2
+  resolution: "@privscope/priv-package@npm:1.0.2"
+  checksum: c20f35eae06f0a7dc120d4d9fbcc26a4b73dfb8086b529014f9fb15727a82fb15e26415b67875fab8f4235a953097ea1b4313cadc24b2bfad13bf0db7510b5cd
   languageName: node
   linkType: hard
 
@@ -23,7 +23,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "private-scope@workspace:."
   dependencies:
-    "@privscope/priv-package": ^1.0.0
+    "@privscope/priv-package": ^1.0.2
     jquery: ^2.1.2
   languageName: unknown
   linkType: soft
